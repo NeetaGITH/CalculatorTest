@@ -1,0 +1,4 @@
+SINO,Module,TestScript,Browser,Execute
+1,Calculator_FunctionVerification,TC01_VerifyAddition,Chrome,Yes
+2,Calculator_FieldsValidation,TC01_VerifySubtraction,IE,No
+3,Calculator_FieldsValidation,TC_03_VerifyMultiplication,Chrome,No
